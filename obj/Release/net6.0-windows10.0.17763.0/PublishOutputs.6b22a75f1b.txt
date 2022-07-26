@@ -1,0 +1,14 @@
+E:\wpf_output\xindezhuomianUIpeisexiugai.png
+E:\wpf_output\Data.json
+E:\wpf_output\VencentLum的视频桌面.exe
+E:\wpf_output\VencentLum的视频桌面.dll
+E:\wpf_output\VencentLum的视频桌面.deps.json
+E:\wpf_output\VencentLum的视频桌面.runtimeconfig.json
+E:\wpf_output\VencentLum的视频桌面.pdb
+E:\wpf_output\Microsoft.Windows.SDK.NET.dll
+E:\wpf_output\WinRT.Runtime.dll
+E:\wpf_output\DK.Standard.dll
+E:\wpf_output\DK.WshRuntime.dll
+E:\wpf_output\Microsoft.Bcl.AsyncInterfaces.dll
+E:\wpf_output\Newtonsoft.Json.dll
+E:\wpf_output\System.Linq.Async.dll

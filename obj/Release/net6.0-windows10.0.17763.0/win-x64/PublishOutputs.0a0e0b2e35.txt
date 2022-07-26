@@ -1,0 +1,14 @@
+D:\output\./xindezhuomianUIpeisexiugai.png
+D:\output\./Data.json
+D:\output\VencentLum的视频桌面.exe
+D:\output\VencentLum的视频桌面.dll
+D:\output\VencentLum的视频桌面.deps.json
+D:\output\VencentLum的视频桌面.runtimeconfig.json
+D:\output\VencentLum的视频桌面.pdb
+D:\output\Microsoft.Windows.SDK.NET.dll
+D:\output\WinRT.Runtime.dll
+D:\output\DK.Standard.dll
+D:\output\DK.WshRuntime.dll
+D:\output\Microsoft.Bcl.AsyncInterfaces.dll
+D:\output\Newtonsoft.Json.dll
+D:\output\System.Linq.Async.dll

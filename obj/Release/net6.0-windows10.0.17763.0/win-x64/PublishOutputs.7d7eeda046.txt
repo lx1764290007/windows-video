@@ -1,0 +1,9 @@
+D:\output2\VencentLum的视频桌面.pdb
+D:\output2\./xindezhuomianUIpeisexiugai.png
+D:\output2\./Data.json
+D:\output2\D3DCompiler_47_cor3.dll
+D:\output2\PenImc_cor3.dll
+D:\output2\PresentationNative_cor3.dll
+D:\output2\vcruntime140_cor3.dll
+D:\output2\wpfgfx_cor3.dll
+D:\output2\VencentLum的视频桌面.exe

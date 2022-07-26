@@ -1,0 +1,10 @@
+E:\Wpf视频桌面2\Resources\add-bold.png
+E:\Wpf视频桌面2\xindezhuomianUIpeisexiugai.png
+E:\Wpf视频桌面2\VencentLum的视频桌面.exe
+E:\Wpf视频桌面2\VencentLum的视频桌面.dll
+E:\Wpf视频桌面2\VencentLum的视频桌面.deps.json
+E:\Wpf视频桌面2\VencentLum的视频桌面.runtimeconfig.json
+E:\Wpf视频桌面2\VencentLum的视频桌面.pdb
+E:\Wpf视频桌面2\Microsoft.Windows.SDK.NET.dll
+E:\Wpf视频桌面2\WinRT.Runtime.dll
+E:\Wpf视频桌面2\Newtonsoft.Json.dll

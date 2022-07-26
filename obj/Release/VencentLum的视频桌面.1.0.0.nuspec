@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>VencentLum的视频桌面</id>
+    <version>1.0.0</version>
+    <authors>VencentLum的视频桌面</authors>
+    <icon>xindezhuomianUIpeisexiugai.png</icon>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows10.0.17763">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows10.0.17763">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows10.0.17763/xindezhuomianUIpeisexiugai.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="E:\Wpf视频桌面2\bin\Release\net6.0-windows10.0.17763.0\VencentLum的视频桌面.runtimeconfig.json" target="lib\net6.0-windows10.0.17763\VencentLum的视频桌面.runtimeconfig.json" />
+    <file src="E:\Wpf视频桌面2\bin\Release\net6.0-windows10.0.17763.0\VencentLum的视频桌面.dll" target="lib\net6.0-windows10.0.17763\VencentLum的视频桌面.dll" />
+    <file src="E:\Wpf视频桌面2\xindezhuomianUIpeisexiugai.ico" target="content\xindezhuomianUIpeisexiugai.ico" />
+    <file src="E:\Wpf视频桌面2\xindezhuomianUIpeisexiugai.ico" target="contentFiles\any\net6.0-windows10.0.17763\xindezhuomianUIpeisexiugai.ico" />
+    <file src="C:\Users\ASUS\Desktop\xindezhuomianUIpeisexiugai.png" target="\xindezhuomianUIpeisexiugai.png" />
+  </files>
+</package>

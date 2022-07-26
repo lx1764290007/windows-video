@@ -1,0 +1,23 @@
+﻿<Window x:Class="VencentLum的视频桌面.LockWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VencentLum的视频桌面"
+        mc:Ignorable="d"
+        BorderBrush="SkyBlue"
+        BorderThickness="1"
+        WindowStyle="None" AllowsTransparency="True" Background="WhiteSmoke"
+        Title="LockWindow" Height="180" Width="320">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" HorizontalAlignment="Center"  Height="30">
+            >>视频转码中>>
+        </Label>
+        <ProgressBar x:Name="progress_bar"  Value="16" Grid.Row="1" Height="18" Width="200"></ProgressBar>
+    </Grid>
+</Window>
